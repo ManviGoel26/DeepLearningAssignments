@@ -20,7 +20,10 @@ Each question is done in separate *Jupyter files (.ipynb)*.
 
 ## Details
 Course Assignments for Deep Learning (CSE641) 
+
 Instructor : Dr. Md. Shad Akhtar
+
+Group Members : [Manvi Goel](https://github.com/ManviGoel26) and [Eeshaan Ravi Tivari](https://github.com/eeshaan-ravi-tivari)
 
 Skills Used : Machine Learning, Data Cleaning and Visualization, Pytorch, Deep Learning, HuggingFace. 
 
